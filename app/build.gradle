@@ -74,7 +74,9 @@ dependencies {
     testCompile 'junit:junit:4.12'
 
     // FOSS part
-    fossCompile 'org.osmdroid:osmdroid-android:5.0.1@aar'
+    fossCompile 'org.mapsforge:mapsforge-core:0.6.0'
+    fossCompile 'org.mapsforge:mapsforge-map:0.6.0'
+    fossCompile 'org.mapsforge:mapsforge-map-android:0.6.0'
 
     // closed source
     playstoreCompile 'com.google.android.gms:play-services-maps:8.3.0'

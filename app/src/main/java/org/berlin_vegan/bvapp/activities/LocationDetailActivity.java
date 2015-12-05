@@ -1,5 +1,6 @@
 package org.berlin_vegan.bvapp.activities;
 
+
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.net.Uri;
